@@ -3,8 +3,6 @@
 
 > **AI-powered unified platform for optimizing railway maintenance blocks with safety-first scheduling, live corridor tracking, and geo-tagged field verification.**
 
-**Smart India Hackathon** · Team: _YOUR TEAM NAME_
-
 ---
 
 ## 🔗 Live Deployment
