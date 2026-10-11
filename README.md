@@ -40,9 +40,11 @@ Bulk Section Approval, GeoTag verification, Horizon Plan Review, Traffic Forecas
 
 8.Field Crew: Executes work and submits geo-tagged Before/After proof with Use My Location, work description, time variance tracking. Actual runtimes feed back to
 retrain AI for higher accuracy.
+
 Maintenance Team ──► AI Engine ──► Control Center ──► Field Crew
 ▲ │
 └────────── actual runtimes retrain the model ◄──────┘
+
 This transforms current decentralized and manual block planning into a data-driven, coordinated process that maximizes asset availability, improves safety, and 
 supports reliable train operations.
 
