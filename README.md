@@ -98,30 +98,6 @@ Maintenance Team ──► AI Engine ──► Control Center ──► Field Cr
 
 ---
 
-## 📸 Screenshots
-
-| Maintenance | AI Planning |
-| :---: | :---: |
-| ![Maintenance](screenshots/maintenance.png) | ![AI Planning](screenshots/ai-planning.png) |
-
-| Control – Live Map | Control – Pending Plans |
-| :---: | :---: |
-| ![Live Map](screenshots/control-live-map.png) | ![Pending Plans](screenshots/control-pending-plans.png) |
-
-| Horizon Plan Review | Corridor Traffic Forecast |
-| :---: | :---: |
-| ![Horizon Plans](screenshots/horizon-plans.png) | ![Traffic Forecast](screenshots/traffic-forecast.png) |
-
-| Verify Field Work (Control) | Field – Complete Work |
-| :---: | :---: |
-| ![Verify Field Work](screenshots/verify-field-work.png) | ![Complete Work](screenshots/field-complete-work.png) |
-
-| Field – Completed Work & Time Variance |
-| :---: |
-| ![Completed Work](screenshots/field-completed-work.png) |
-
----
-
 ## 🧠 How OR-Tools Planning Works
 
 1. **Collect** – All pending block requests for the selected horizon (7 or 30 days) are pulled in with their priority score, duration, department and segment.
