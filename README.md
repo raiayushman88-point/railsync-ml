@@ -1,5 +1,7 @@
 The problem RailSync solves
+
 🚂 RailSync – COORDINATED,OPTIMIZED,AI-DRIVEN BLOCK PLANNER
+
 Background:
 Railway maintenance for fixed infrastructure of Engineering, Traction Distribution, and Signal & Telecommunication departments is currently planned independently.
 Each department requests maintenance blocks/disconnections via the BDMS system. This planning process is decentralized and manual. This often leads to inefficient
